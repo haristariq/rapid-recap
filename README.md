@@ -1,6 +1,5 @@
 # Rapid Recap
 
-![Rapid Recap Logo](logo.png)
 
 Rapid Recap is a Swift application designed to help users quickly summarize the content of their PDF files. It uses advanced AI technology powered by GPT to process the text content and generate a summary of the most important data. The summarized data is then exported as a new PDF file.
 
